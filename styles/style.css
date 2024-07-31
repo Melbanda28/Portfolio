@@ -37,3 +37,10 @@ font-size: 36px;
 .hero h2{
   font-weight: normal;
 }
+
+.btn {
+  background:blue;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+}
