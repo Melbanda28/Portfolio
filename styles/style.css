@@ -44,3 +44,7 @@ font-size: 36px;
   color: white;
   font-size: 18px;
 }
+
+a{
+  text-decoration: underline;
+}
