@@ -99,3 +99,8 @@ border: 10px;
 height: 60px;
 width: 300px;
 }
+.work-section p{
+text-align: center;
+font-size:18px ;
+margin-top: 1px;
+}
