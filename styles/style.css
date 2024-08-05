@@ -1,41 +1,39 @@
-body{
-   background:rgb(237, 241, 242);
+body {
+  background: rgb(237, 241, 242);
 }
 
 h1,
 h2,
 h3,
-h4{
-  font-family:"Playfair Display", serif;;
-  color:black;
+h4 {
+  font-family: "Playfair Display", serif;
+  color: black;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
-  font-family:"Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: bold;
   margin-top: 32px;
-
 }
 
-.hero{
+.hero {
   text-align: center;
-  background:rgb(237, 241, 242);
-  padding:60px 0;
-
+  background: rgb(237, 241, 242);
+  padding: 60px 0;
 }
 
-.hero p{
-font-size: 36px;
+.hero p {
+  font-size: 36px;
 }
 
-.hero h1{
+.hero h1 {
   font-size: 96px;
 }
-.hero h2{
+.hero h2 {
   font-weight: normal;
 }
-
 
 .navigation-links {
   display: flex;
@@ -49,27 +47,45 @@ font-size: 36px;
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
+  font-size: 26px;
 }
 
 .contact-link {
   background: blue;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  color:white;
+  color: white;
   border: 1px solid blue;
 }
 
 .about-link {
   background: blue;
-  color:white;
+  color: white;
   border: 1px solid blue;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 .homepage-link {
-  color:blue;
+  color: blue;
   text-align: center;
   display: block;
 }
-@media(max-width:900px){
-  h1{font-size: 60px;}
+P{
+  font-size: 18px;
+}
+@media (max-width: 900px) {
+  h1 {
+    font-size: 60px;
+  }
+   }
+P{
+  font-size: 24px;
+}
+h1 {
+  font-size: 96px;
+  margin-top: 90px;
+}
+.btn{
+display: block;
+margin: auto;
+font-size: 26px;
 }
