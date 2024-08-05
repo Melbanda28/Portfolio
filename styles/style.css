@@ -105,3 +105,11 @@ font-size:18px ;
 margin-top: 1px;
 }
 
+.contact-section h1{
+  background: rgb(169, 153, 229);
+  border-radius: 1px solid rgb(169, 153, 229)  ;
+  box-shadow: 2px 2px;
+}
+ .contact-section p{
+  font-size: 36px;
+ }
