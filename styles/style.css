@@ -9,7 +9,6 @@ h4{
   font-family: "Playfair Display", serif;
   color: black;
   font-weight:bold;
-  text-align: center;
 }
 
 p {
@@ -35,7 +34,7 @@ p {
  
 }
 .about-section h2{
-  font-family:"Poppins", sans-serif; ;
+  font-family:"Poppins", sans-serif;
 }
 
 .hero h1 {
@@ -110,6 +109,8 @@ margin-top: 1px;
   border-radius: 1px solid rgb(169, 153, 229)  ;
   box-shadow: 2px 2px;
 }
- .contact-section p{
-  font-size: 36px;
+ .contact-section a{
+ font-size: 26px;
+ text-align: center;
  }
+ 
