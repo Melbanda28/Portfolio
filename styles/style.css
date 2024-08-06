@@ -23,7 +23,7 @@ p {
 .hero {
   text-align: center;
   background: rgb(237, 241, 242);
-  padding: 60px 0;
+
 }
 
 .hero p {
@@ -34,12 +34,18 @@ p {
   font-size: 76px;
  
 }
+.about-section{
+  margin-top: 110px;
+}
 .about-section h2{
   font-family:"Poppins", sans-serif;
 }
 
 .hero h1 {
   font-size: 96px;
+}
+.logo{
+max-width: 75px;
 }
 
 
@@ -80,7 +86,7 @@ p {
 
 @media (max-width: 900px) {
   h1 {
-    font-size: 60px;
+    font-size: 40px;
   }
    }
 P{
@@ -105,16 +111,16 @@ font-size:18px ;
 margin-top: 1px;
 }
 
+.nav-item{
+ font-size: 18px;
+ color: black;
+ font-weight: bold;
+}
+
 .contact-section h1{
   background: rgb(169, 153, 229);
   border-radius: 1px solid rgb(169, 153, 229)  ;
   box-shadow: 2px 2px;
+  text-align: centre;
 }
- .contact-section a{
- font-size: 26px;
- text-align: center;
- }
  
- .contact-section p{
-  text-align: center;
- }
