@@ -123,4 +123,27 @@ margin-top: 1px;
   box-shadow: 2px 2px;
   text-align: centre;
 }
- 
+footer .email-link{
+text-decoration: none;
+color: black;
+font-size: 24px;
+text-align: center;
+  font-weight: bold;
+}
+
+footer .email-link:hover{
+  color:blue;
+
+}
+footer .social-links a{
+margin: 0 20px;
+color: blue;
+padding: 10px 14px;
+font-size: 20px;
+transition: all 150ms ease-in-out;
+}
+
+footer .social-links a:hover{
+color: white;
+background: blue;
+}
