@@ -127,9 +127,18 @@ margin-top: 1px;
 
 .contact-section p{
   font-size: 22px;
-  color: blue;
-}
+  color:black;
+  font-weight: medium;
 
+}
+.contact-section a{
+  color:blue;
+}
+.contact-section a:hover{
+ background: blue;
+ color: white;
+ text-decoration: none;
+}
 footer .email-link{
 text-decoration: none;
 color: black;
@@ -140,6 +149,7 @@ text-align: center;
 
 footer .email-link:hover{
   color:blue;
+  background: rgb(237, 241, 242);
 
 }
 footer .social-links a{
