@@ -123,6 +123,12 @@ margin-top: 1px;
   box-shadow: 2px 2px;
   text-align: centre;
 }
+
+.contact-section p{
+  font-size: 22px;
+  color: blue;
+}
+
 footer .email-link{
 text-decoration: none;
 color: black;
